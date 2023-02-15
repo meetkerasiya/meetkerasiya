@@ -3,7 +3,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetkerasiya&show_icons=true)
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 <!--
 **meetkerasiya/meetkerasiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
